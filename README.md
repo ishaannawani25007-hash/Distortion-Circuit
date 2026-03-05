@@ -24,7 +24,7 @@ Images:
 
 PCB Layout
 
-![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
+![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/pcb.png)
 
 
 CAD Enclosure
@@ -48,9 +48,9 @@ OG - Intended for output jack ground
 Gnd - Intended for power jack ground
 9v - Positive 9v power
 
-Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this build documentation as a wiring reference.
+Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
 
-![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
+![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
 
 RESISTORS (1/4 watt)
 | QTY | VALUE |

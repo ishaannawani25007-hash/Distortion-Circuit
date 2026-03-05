@@ -23,15 +23,18 @@ Instead of just copying an existing pedal, I created my own design and layout to
 Images:
 
 PCB Layout
+
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/pcb.png)
 
 
 CAD Enclosure
+
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20body.png)
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
 
 
 Wiring 
+
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
 
 List of Material Required:

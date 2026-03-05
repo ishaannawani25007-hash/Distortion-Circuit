@@ -118,3 +118,13 @@ JACKS
 
 1 | 9 volt power jack (center negative) Note: No space for battery in 1590a enclosure
 
+
+                      ALL THE DESIGNING AND MODELLING WERE DONE ON
+                                    . Kicad 
+                                    . Blender
+
+                                    . PCB From
+                                             -JLC PCB
+
+                                    . Components From
+                                             -Robu.in

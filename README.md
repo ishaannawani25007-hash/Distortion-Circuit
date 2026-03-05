@@ -54,7 +54,7 @@ Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footsw
 
 List Of Material 
 
-[Click Here](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/BOM.csv)
+[Material List](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/BOM.csv)
 
 RESISTORS (1/4 watt)
 

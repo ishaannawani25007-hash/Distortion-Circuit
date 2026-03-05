@@ -29,25 +29,62 @@ PCB Layout
 
 CAD Enclosure
 
+
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20body.png)
+
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
 
 
 Wiring 
 
+The wiring labels on the board indicate the following:
+
+InG - Intended for input jack ground
+In - Input Jack Signal
+SW - Switch connection to footswitch
+SwG - Ground connection to footswitch
+O - Output Jack Signal
+OG - Intended for output jack ground
+Gnd - Intended for power jack ground
+9v - Positive 9v power
+
+Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this build documentation as a wiring reference.
+
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
 
-List of Material Required:
-1 :Resistor 390 ohm
-2 :Resistor 4.7 kohm
-3 :Resistor 10 kohm
-4 :Resistor 43 kohm
-5 :Resistor 430 kohm 
-6 :Capacitor x10
-7 :1N5817-T-Diode
-8 :LED Indication 
-9 :100 k Potentiometer
-10:PNP transistor 
-11:Pedal FootSwitch 3PDT 
-12:Soldering Iron
-13:Soldering Wire
+RESISTORS (1/4 watt)
+| QTY | VALUE |
+| 1 | 390 ohm |
+| 1 | 4K7 |
+| 1 | 10K |
+| 1 | 43K |
+| 1 | 430K |
+
+
+CAPACITORS
+| QTY | VALUE |
+| 2 | 0.1 UF (100nF) |
+
+
+TRANSISTORS
+| QTY | Part # |
+| 1 | 2N5088 |
+
+
+DIODES
+| QTY | Part # |
+| 1 | 1N5817 |
+| 1 | 5mm LED (color of choice) | Note: Tayda drill template assumes the LED is in a 5mm bezel, change LED hole size as desired.
+
+
+POTENTIOMETERS
+| QTY | VALUE |
+| 1 | A100K | Note: B100K for linear taper works fine. Use 16mm right angle PCB mount if using 1590a drill template.
+
+
+SWITCHES
+1 | 3DPDT footswitch
+
+JACKS
+2 | 1/4" Mono Audio Jack
+1 | 9 volt power jack (center negative) Note: No space for battery in 1590a enclosure

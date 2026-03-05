@@ -24,7 +24,7 @@ Images:
 
 PCB Layout
 
-![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/pcb.png)
+![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
 
 
 CAD Enclosure

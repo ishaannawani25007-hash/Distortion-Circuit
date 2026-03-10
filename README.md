@@ -22,15 +22,18 @@ Instead of just copying an existing pedal, I created my own design and layout to
 
 Images:
 
-PCB Layout
+PCB Layout: 
+[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/tree/main/PCB/PCB) 
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/pcb.png)
 
 
 CAD Enclosure
-
+[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Enclosure/EnclosureBodyLedVertical.STL)
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20body.png)
+
+[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Enclosure/BottomPart.STL)
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
 
@@ -60,15 +63,15 @@ RESISTORS (1/4 watt)
 
 | QTY | VALUE |
 
-| 1 | 390 ohm |
+| 1 | [390](https://robu.in/product/mf25-390r-multicomp-pro-through-hole-resistor-390-ohm-mf25-series-250-mw-±-1-axial-leaded-250-v/) ohm |
 
-| 1 | 4K7 |
+| 1 | [4K7](https://robu.in/product/mf25-4k7-multicomp-pro-through-hole-resistor-4-7-kohm-250-mw-±-1-axial-leaded-250-v/) ohm |
 
-| 1 | 10K |
+| 1 | [10K](https://robu.in/product/mf25-10k-multicomp-pro-through-hole-resistor-10-kohm-250-mw-±-1-axial-leaded-250-v/) ohm |
 
-| 1 | 43K |
+| 1 | [43K](https://robu.in/product/mf25-43k-multicomp-pro-through-hole-resistor-43-kohm-mf25-series-250-mw-±-1-axial-leaded-250-v/) ohm |
 
-| 1 | 430K |
+| 1 | [430K](https://robu.in/product/mf25-430k-multicomp-pro-through-hole-resistor-430-kohm-mf25-series-250-mw-±-1-axial-leaded-250-v/) ohm |
 
 
 
@@ -77,15 +80,15 @@ CAPACITORS
 
 | QTY | VALUE |
 
-| 2 | 0.1 UF (100nF) |
+| 2 | [0.1 UF](https://robu.in/product/100nf-50v-disc-capacitor/) (100nF) |
 
 
 
-TRANSISTORS
+TRANSISTORS(currently not available on Robu)
 
 | QTY | Part # |
 
-| 1 | 2N5088 |
+| 1 | [2N5088](https://www.amazon.in/2N5088-Transistor-NPN/dp/B08YFF1JN7) |
 
 
 
@@ -93,9 +96,9 @@ DIODES
 
 | QTY | Part # |
 
-| 1 | 1N5817 |
+| 1 | [1N5817](https://robu.in/product/1n5817-t-diodes-incorporated-20v-750mv3a-1a-do-41-schottky-diodes-rohs/) |
 
-| 1 | 5mm LED (color of choice) | Note: Tayda drill template assumes the LED is in a 5mm bezel, change LED hole size as desired.
+| 1 | [5mm LED](https://robu.in/product/tj-l5fytghrmfcsflc2r-a5-togialed-20ma-foggy-red-lens-20℃80℃-red-45-5mm-round-lamp-head-plugind5mm-led-indication-discrete-rohs/) (color of choice) | Note: Tayda drill template assumes the LED is in a 5mm bezel, change LED hole size as desired.
 
 
 
@@ -103,28 +106,38 @@ POTENTIOMETERS
 
 | QTY | VALUE |
 
-| 1 | A100K | Note: B100K for linear taper works fine. Use 16mm right angle PCB mount if using 1590a drill template.
+| 1 | [A100K](https://robu.in/product/p160knp-0qc20a100k-tt-electronics-bi-technologies/) | Note: B100K for linear taper works fine. Use 16mm right angle PCB mount if using 1590a drill template.
 
 
 
 SWITCHES
 
-1 | 3DPDT footswitch
+1 | [3DPDT footswitch](https://robu.in/product/pbs-24-302-latching-push-button-switch-9pin/)
 
 
 JACKS
 
-2 | 1/4" Mono Audio Jack
+2 | [1/4" Mono Audio Jack](https://robu.in/product/1-month-warranty-179/)
 
-1 | 9 volt power jack (center negative) Note: No space for battery in 1590a enclosure
+1 | 9 volt power from [PSU:](https://robu.in/product/dc-jack-022/) or [Battery:](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/) (center negative) Note: No space for battery in 1590a enclosure
+
+=================================================
+ALL THE DESIGNING AND MODELLING WERE DONE ON
 
 
-                      ALL THE DESIGNING AND MODELLING WERE DONE ON
-                                    . Kicad 
-                                    . Blender
+  . [Kicad](https://www.kicad.org)
+          
+  . [Blender](https://www.blender.org)
 
-                                    . PCB From
-                                             -JLC PCB
 
-                                    . Components From
-                                             -Robu.in
+. PCB From
+
+  . [JlcPcb](https://jlcpcb.com)
+  
+
+.  Components From
+
+
+  . [Robu](https://robu.in)
+
+================================================

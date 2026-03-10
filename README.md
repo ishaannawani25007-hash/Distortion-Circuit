@@ -23,7 +23,7 @@ Instead of just copying an existing pedal, I created my own design and layout to
 Images:
 
 PCB Layout: 
-[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/tree/main/PCB/PCB) 
+[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/tree/main/PCB) 
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/pcb.png)
 

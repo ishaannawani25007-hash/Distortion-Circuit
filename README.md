@@ -138,6 +138,6 @@ ALL THE DESIGNING AND MODELLING WERE DONE ON
 .  Components From
 
 
-  . [Robu](https://robu.in)
+  . [Robu](https://robu.in) & [Amazon](https://www.amazon.in)
 
 ================================================

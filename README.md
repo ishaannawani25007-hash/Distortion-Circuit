@@ -1,3 +1,13 @@
+Hi everyone :3 i am Ishaan Nawani from India, i am 16 years old. I wanted to say that the experience the learning and the designing in the process of creating this project was very amazing , i managed to build this in really less amount of time, I had to learn PCB designing , how to make CAD files and etc. but the experience and what i learned in the way was priceless and i loved doing this project and i never imagined in a million years that i would be able to pull this off <3.
+
+.
+
+.
+
+.
+
+.
+
 Project Description – Transistor Guitar Distortion Pedal
 
 This project is a small distortion pedal made with transistors.
@@ -22,8 +32,10 @@ Instead of just copying an existing pedal, I created my own design and layout to
 
 Images:
 
-PCB Layout: 
-[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/tree/main/PCB) 
+PCB Layout:
+[FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/tree/main/PCB)
+
+The hardest part specially for me was to design the PCB as i am not an absolute professional at this although i did manage to make this from the schematic and was fun.
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/pcb.png)
 
@@ -40,22 +52,34 @@ CAD Enclosure
 
 Wiring 
 
+There is no fancy wiring i have made the pcb in such a way such that the layout of the pcb mainly the terminals are easy to understand and follow the PedalPCB website's wiring diagram, it has made my work a lot easier and the diagram also shows how to easily wire the pedal.
+
 The wiring labels on the board indicate the following:
 
 InG - Intended for input jack ground
+
 In - Input Jack Signal
+
 SW - Switch connection to footswitch
+
 SwG - Ground connection to footswitch
+
 O - Output Jack Signal
+
 OG - Intended for output jack ground
+
 Gnd - Intended for power jack ground
+
 9v - Positive 9v power
+
 
 Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
-
+==================================================================================================
 List Of Material 
+
+Theese materials are MOSTLY from robu although some parts if any that wont be on the website are updated below and links to each and every component is also given.
 
 [Material List](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/BOM.csv)
 
@@ -121,7 +145,8 @@ JACKS
 
 1 | 9 volt power from [PSU:](https://robu.in/product/dc-jack-022/) or [Battery:](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/) (center negative) Note: No space for battery in 1590a enclosure
 
-=================================================
+============================================================================================
+
 ALL THE DESIGNING AND MODELLING WERE DONE ON
 
 
@@ -140,4 +165,4 @@ ALL THE DESIGNING AND MODELLING WERE DONE ON
 
   . [Robu](https://robu.in) & [Amazon](https://www.amazon.in)
 
-================================================
+===========================================================================================

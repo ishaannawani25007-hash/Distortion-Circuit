@@ -143,7 +143,7 @@ JACKS
 
 2 | [1/4" Mono Audio Jack](https://robu.in/product/1-month-warranty-179/)
 
-1 | 9 volt power from [PSU:](https://robu.in/product/dc-jack-022/) or [Battery:](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/) (center negative) Note: No space for battery in 1590a enclosure
+1 | 9 volt power from [PSU:](https://robu.in/product/dc-jack-022/) or [Battery:](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/) (center negative) Note: No space for battery in the enclosure
 
 ============================================================================================
 

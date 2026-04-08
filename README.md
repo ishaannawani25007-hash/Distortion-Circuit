@@ -1,13 +1,3 @@
-Hi everyone :3 i am Ishaan Nawani from India, i am 16 years old. I wanted to say that the experience the learning and the designing in the process of creating this project was very amazing , i managed to build this in really less amount of time, I had to learn PCB designing and how to make 3d models. but the experience and what i learned in the way was priceless and i loved doing this project and i never imagined in a million years that i would be able to pull this off <3.
-
-.
-
-.
-
-.
-
-.
-
 Project Description – Transistor Guitar Distortion Pedal
 
 This project is a small distortion pedal made with transistors.
@@ -30,6 +20,12 @@ The main aim was to understand how transistor amplification, biasing, and diode 
 Building the pedal also helped me learn how to design PCBs in KiCad, wire hardware, and layout enclosures.
 Instead of just copying an existing pedal, I created my own design and layout to better understand the whole process of building a pedal from a circuit diagram to the final product.
 
+
+
+
+
+
+
 Images:
 
 PCB Layout:
@@ -48,6 +44,13 @@ CAD Enclosure
 [FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Enclosure/BottomPart.STL)
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/enclosure%20bottom.png)
+
+
+
+
+
+
+
 
 
 Wiring 
@@ -77,6 +80,13 @@ Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footsw
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
 ==================================================================================================
+
+
+
+
+
+
+
 List Of Material 
 
 Theese materials are MOSTLY from robu although some parts if any that wont be on the website are updated below and links to each and every component is also given.
@@ -144,6 +154,12 @@ JACKS
 2 | [1/4" Mono Audio Jack](https://robu.in/product/1-month-warranty-179/)
 
 1 | 9 volt power from [PSU:](https://robu.in/product/dc-jack-022/) or [Battery:](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/) (center negative) Note: No space for battery in the enclosure
+
+
+
+
+
+
 
 ============================================================================================
 

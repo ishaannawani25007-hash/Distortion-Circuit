@@ -1,4 +1,4 @@
-Hi everyone :3 i am Ishaan Nawani from India, i am 16 years old. I wanted to say that the experience the learning and the designing in the process of creating this project was very amazing , i managed to build this in really less amount of time, I had to learn PCB designing , how to make CAD files and etc. but the experience and what i learned in the way was priceless and i loved doing this project and i never imagined in a million years that i would be able to pull this off <3.
+Hi everyone :3 i am Ishaan Nawani from India, i am 16 years old. I wanted to say that the experience the learning and the designing in the process of creating this project was very amazing , i managed to build this in really less amount of time, I had to learn PCB designing and how to make 3d models. but the experience and what i learned in the way was priceless and i loved doing this project and i never imagined in a million years that i would be able to pull this off <3.
 
 .
 

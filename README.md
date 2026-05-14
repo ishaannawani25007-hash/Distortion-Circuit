@@ -1,4 +1,6 @@
-Project Description – Transistor Guitar Distortion Pedal
+		Project Description – Transistor Guitar Distortion Pedal			
+
+![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/20260515_005630.jpg)
 
 This project is a small distortion pedal made with transistors.
 It takes the sound from an electric guitar and changes it to make a distorted tone that works well with rock and experimental music. The pedal uses a high-gain NPN transistor to boost the signal and diodes to clip the waveform, which creates the distortion effect. It runs on a 9V DC power supply and has a 3PDT footswitch for switching between bypass and distortion mode. There's also an LED light that shows if the pedal is on.
@@ -26,7 +28,7 @@ Instead of just copying an existing pedal, I created my own design and layout to
 
 
 
-Images:
+			Images:
 
 PCB Layout:
 [FILE](https://github.com/ishaannawani25007-hash/Distortion-Circuit/tree/main/PCB)
@@ -53,7 +55,7 @@ CAD Enclosure
 
 
 
-Wiring 
+		Wiring 
 
 There is no fancy wiring i have made the pcb in such a way such that the layout of the pcb mainly the terminals are easy to understand and follow the PedalPCB website's wiring diagram, it has made my work a lot easier and the diagram also shows how to easily wire the pedal.
 
@@ -79,15 +81,9 @@ Gnd - Intended for power jack ground
 Note: The pedal wiring works the same as most PedalPCB pedals with a 3PDT footswitch unless otherwise noted. You can use this  [this build documentation](https://docs.pedalpcb.com/project/Amentum.pdf) build documentation as a wiring reference.
 
 ![Img](https://github.com/ishaannawani25007-hash/Distortion-Circuit/blob/main/Photos/Screenshot%202026-03-06%20004447.png)
-==================================================================================================
 
 
-
-
-
-
-
-List Of Material 
+		List Of Material 
 
 Theese materials are MOSTLY from robu although some parts if any that wont be on the website are updated below and links to each and every component is also given.
 

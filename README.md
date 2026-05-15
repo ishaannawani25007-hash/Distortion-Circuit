@@ -152,14 +152,7 @@ JACKS
 1 | 9 volt power from [PSU:](https://robu.in/product/dc-jack-022/) or [Battery:](https://robu.in/product/9v-battery-snap-connector-dc-jackbattery-connector-cap/) (center negative) Note: No space for battery in the enclosure
 
 
-
-
-
-
-
-============================================================================================
-
-ALL THE DESIGNING AND MODELLING WERE DONE ON
+	ALL THE DESIGNING AND MODELLING WERE DONE ON
 
 
   . [Kicad](https://www.kicad.org)
@@ -177,4 +170,3 @@ ALL THE DESIGNING AND MODELLING WERE DONE ON
 
   . [Robu](https://robu.in) & [Amazon](https://www.amazon.in)
 
-===========================================================================================
